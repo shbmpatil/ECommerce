@@ -1,5 +1,6 @@
+145
 Item Number,Name,Cost,Qty
-12735,Product 001,02.09,121
+12735,Product 001,02.09,117
 69703,Product 002,03.64,069
 15964,Product 003,10.75,085
 24286,Product 004,13.51,197
@@ -23,7 +24,7 @@ Item Number,Name,Cost,Qty
 52930,Product 022,09.39,126
 39728,Product 023,04.95,155
 69103,Product 024,03.37,156
-67987,Product 025,04.97,19	9
+67987,Product 025,04.97,199
 20709,Product 026,15.73,089
 28202,Product 027,12.33,075
 36794,Product 028,20.49,100
